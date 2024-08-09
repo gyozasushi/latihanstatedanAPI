@@ -50,9 +50,7 @@ function Home() {
 
   return (
     <section id="home" className="home-section">
-      <div className="home-bg">
-        {/* <img src={bghome} alt="background" /> */}
-      </div>
+      
       <Container fluid className="home-content">
         <Row className="justify-content-center gap-3">
           <Col xs={5} md={2}>
